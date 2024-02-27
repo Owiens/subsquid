@@ -1,0 +1,2 @@
+# subsquid
+Codotz subsquid testnet
